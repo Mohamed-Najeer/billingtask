@@ -1,0 +1,16 @@
+{
+    "itemlist":[
+        {
+            "fruit":"Apple",
+            "price":80
+        },
+        {
+            "fruit":"Mango",
+            "price":120
+        },
+        {
+            "fruit":"Grapes",
+            "price":50
+        }
+    ]
+}
